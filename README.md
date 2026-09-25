@@ -35,3 +35,8 @@ A construção deste sistema exigiu a aplicação de conceitos fundamentais da l
 
    ```bash
    git clone https://github.com/aguiar-vitor/Projeto-Sistema-de-jogo-de-xadrez.git
+
+3. Abra o terminal na pasta do projeto e execute o comando:
+
+   ```bash
+   dotnet run
