@@ -1,6 +1,6 @@
 # ♟️ Sistema de Jogo de Xadrez em C# (Console)
 
-Projeto desenvolvido como objeto de estudo durante o curso **"C# COMPLETO Programação Orientada a Objetos + Projetos"** do Prof. Nelio Alves (Udemy). O repositório original que serviu como base pode ser encontrado [aqui](https://github.com/acenelio/xadrez-console).
+Projeto desenvolvido como objeto de estudo durante o curso **"[C# COMPLETO Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/)"** do Prof. Nelio Alves (Udemy).
 
 ## 🚀 Sobre o Projeto
 
@@ -27,3 +27,11 @@ A construção deste sistema exigiu a aplicação de conceitos fundamentais da l
 * **Estrutura de Dados:** Uso extensivo de matrizes bidimensionais para representar a malha do tabuleiro e organizar as posições.
 * **Tratamento de Exceções:** Criação de classes de exceção personalizadas (`TabuleiroException`) para tratar violações das regras do jogo sem interromper a execução abruptamente.
 * **Design de Software:** Separação de responsabilidades (Camada de Tabuleiro, Camada de Peças e Camada de Lógica da Partida).
+
+## 💻 Como executar o projeto
+
+1. Certifique-se de que tem o [.NET SDK](https://dotnet.microsoft.com/download) instalado no seu sistema.
+2. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/aguiar-vitor/Projeto-Sistema-de-jogo-de-xadrez.git
